@@ -1,0 +1,26 @@
+# Maak jezelf Presenter
+
+## Maak een meeting aan.
+Zorg ervoor dat je **organizer** bent.
+
+![](img/01.jpg)
+
+## Ga naar 'Manage permissions'
+Om jezelf **presenter** te maken. 
+
+![](img/02.jpg)
+![](img/03.jpg)
+
+## Meeting Options 
+Selecter bij: *Who can present?* , **Only Me**
+
+![](img/04.jpg)
+![](img/05.jpg)
+
+
+## Je bent nu 'Presenter'
+Dit betekent dat je niet op mute kan worden gezet. 
+Daarnaast kan je iemand anders ook **presenter** maken.
+
+![](img/06.jpg)
+![](img/07.jpg)
